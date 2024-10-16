@@ -1,3 +1,3 @@
 # Basic frontend-projects
-Responsive website
-Pokemon cards
+1)Responsive website
+2)Pokemon cards
