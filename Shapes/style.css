@@ -1,0 +1,43 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: aqua;
+    display:flex;
+}
+
+#box1{
+    background-color: rgb(245, 220, 228);
+    height:200px;
+    width:200px;
+    border-style: dashed;
+    border-width: 10px;
+    border-radius: 10px;
+}
+#box2{
+    background-color: brown;
+    height:400px;
+    width:400px;
+}
+ 
+
+ #box3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 221, 196);
+
+ }
+#box4{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(244, 255, 196);
+    
+ }
+ #box5{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 196, 196);
+    
+ }
+ 
